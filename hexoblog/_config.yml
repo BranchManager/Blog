@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: Geekz 4 Gains
+subtitle: 'Geekz 4 Gains'
 description: ''
 keywords:
 author: John Doe
@@ -33,6 +33,9 @@ code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
 
+
+header_cover: /home/nbranch/Documents/Blog/hexoblog/themes/hexo-theme-skapp/source/img/plate.jpg
+#favicon_ico: themes/hexo-theme-skapp/source/img/plate.jpeg
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
@@ -43,7 +46,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -85,6 +88,8 @@ date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 ## Use post's date for updated date unless set in front-matter
 use_date_for_updated: false
+
+
 
 # Pagination
 ## Set per_page to 0 to disable pagination
