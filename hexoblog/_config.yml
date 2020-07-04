@@ -34,9 +34,10 @@ i18n_dir: :lang
 skip_render:
 
 
-header_cover: /home/nbranch/Documents/Blog/hexoblog/themes/hexo-theme-skapp/source/img/plate.jpg
-#favicon_ico: themes/hexo-theme-skapp/source/img/plate.jpeg
+header_cover: https://img.freepik.com/free-vector/abstract-technology-particle-background_52683-25766.jpg?size=626&ext=jpg
+#favicon_ico: hexoblog/themes/hexo-theme-skapp/source/img/plate.jpeg
 # Writing
+logo: https://image.shutterstock.com/z/stock-vector-vector-leaf-golden-shape-and-monochromatic-one-abstract-emblem-design-concept-logo-logotype-357105539.jpg
 new_post_name: :title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
