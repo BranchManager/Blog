@@ -2,9 +2,9 @@
 <header id="page-header" class="page__header" style="background-image: url('{{ get_setting('header_cover') }}');">
     <nav class="page__navbar">
         <div class="page__container navbar-container">
-        <a style="color: white, display:inline;" href="{{ url_for('/') }}" title="{{ get_setting('title') }}" alt="{{ get_setting('title') }}">
+        <!--a style="color: white, display:inline;" href="{{ url_for('/') }}" title="{{ get_setting('title') }}" alt="{{ get_setting('title') }}">
                 Test
-            </a>
+            </a-->
             <a class="page__logo" href="{{ url_for('/') }}" title="{{ get_setting('title') }}" alt="{{ get_setting('title') }}">
                 <img src="{{ get_setting('logo') }}" alt="{{ get_setting('title') }}">
                 
