@@ -15,8 +15,4 @@ categories_label: "Categories: "
 toc: true
 ---
 
-This is a test 
-~~~python
-code 
-import numpy
-~~~~
+Welcome to my blog. Chances are no one will ever see this post at least. But this post serves as primarily a test. For more information see the [about tab](https://branchmanager.github.io/Blog/about.html/).
