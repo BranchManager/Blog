@@ -63,6 +63,7 @@ include: ["_pages"]
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - github-pages
 
 # Exclude from processing.
 # The following items will not be processed, by default.
