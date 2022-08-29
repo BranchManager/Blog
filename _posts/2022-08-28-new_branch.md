@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  Pushing new config to same repo but new branch
-date:   2022-08-28 14:23
+date:   2022-08-28 22:58:15 +0000
 author: Noah
 
 categories: 
