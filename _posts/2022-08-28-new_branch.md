@@ -17,9 +17,9 @@ toc: true
 
 So I have been Working on a rice for quite a while now and it has constantly changed. I Started out with BSPWM on Xorg but soon switched to Hyperland on wayland. So that meant I needed to use different tools. Git is one of the ones that remained consistent. 
 
-There is a nice article out there on [here](https://www.atlassian.com/git/tutorials/dotfiles) on how to manage dotfiles. There is also a[youtube](https://youtu.be/tBoLDpTWVOM) video that goes over this concep. I basically started using this method to start keeping track of my dotfiles.
+There is a nice article out there , [here](https://www.atlassian.com/git/tutorials/dotfiles) on how to manage dotfiles. There is also a [youtube](https://youtu.be/tBoLDpTWVOM) video that goes over this concept. I basically started using this method to start keeping track of my dotfiles.
 
-However in my case I started a new rice (my wayland rice) on a new OS in Arch linux. I pretty much started from scratch. My old Xorg rices wouldn't really work even though I had a decent collection of configurations stored on git. I wanted a way to keep these new dotfile in the same repo. 
+However in my case I started a new rice (my wayland rice) on a new OS in Arch linux. I pretty much started from scratch. My old Xorg rices wouldn't really work even though I had a decent collection of configurations stored on git. I wanted a way to keep these new dotfile sin the same repo. 
 So what I did was create new branch on my dotfiles repo. It's actually pretty easy but just to put it out there...
 
 1. I first followed the instructions in the article to createa new git bare repo.
