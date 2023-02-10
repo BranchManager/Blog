@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #in order for the blog to be tested on local machine we need to comment out the "baseurl: "Blog"" line. This 
 #line is meant for when the website is deployed on git hub. If you Don't remove it when testing then themese and styles will not be loaded correctly. They will attempt to be loaded at 127.0.0.7:400Blog and 400Blog is not a port number so I'd assume that jekyll
 #wont know where to look for the correct files
-#baseurl: "Blog" # the subpath of your site, e.g. /blog
+baseurl: "Blog" # the subpath of your site, e.g. /blog
 url: "https://branchmanager.github.io/Blog/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  BranchManager
